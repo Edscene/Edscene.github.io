@@ -99,3 +99,9 @@ img {
 .post-container:nth-child(even) {
 	background-color: #f2f2f2;
 }
+#img-about {
+	height: 500px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
